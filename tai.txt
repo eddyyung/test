@@ -51,17 +51,32 @@ NHK,http://123.51.230.108:18525/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.m3u8
 東森財經新聞,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-中天新聞,https://ytm2.yuanhsing.cf/ctitv.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 鏡新聞,https://ytm2.yuanhsing.cf/mnews.m3u8
 TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 民視新聞,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 三立新聞,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+三立台灣,http://220.134.196.147:9531/index.m3u8
+三立台灣,http://50.7.168.234:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
+三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立綜合,http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
+三立綜合,http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
+三立綜合,http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+三立戲劇,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-大愛,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
-酒鬼廚娘,https://ytm2.yuanhsing.cf/Faintv.m3u8
-包青天,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-天才衝衝衝,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-新玫瑰瞳鈴眼,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
-粉紅豬小妹,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
+非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡商業,http://59.125.101.187:8535/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
+愛爾達影劇 HD,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+愛爾達影劇 HD,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+緯來戲劇,http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+衛視中文台 HD,http://123.51.229.65:18504/.m3u8
+衛視中文台 HD,http://220.134.196.147:9554/index.m3u8
+衛視中文台 HD,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
