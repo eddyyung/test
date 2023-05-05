@@ -14,7 +14,6 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 MOMO綜合,rtmp://119.81.124.89/sat/tv761
 緯來日本,rtmp://119.81.124.89/sat/tv771
 博斯網球,rtmp://119.81.124.89/sat/md031
-博斯魅力,rtmp://119.81.124.89/sat/md041
 ELTA體育2,rtmp://119.81.124.89/sat/md051
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -52,7 +51,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 東森戲劇,http://123.51.230.108:18538/.m3u8
 八大第一 HD,http://123.51.230.108:18539/.m3u8
 八大第一 HD,http://123.51.229.65:18539/.m3u8
-八大第一,http://220.134.196.147:9531/index.m3u8
+八大第一 HD,http://220.134.196.147:9531/index.m3u8
 緯來綜合 HD,http://123.51.230.108:18540/.m3u8
 緯來綜合 HD,http://123.51.229.65:18540/.m3u8
 緯來綜合 HD,http://60.251.33.252:18540/.m3u8
@@ -63,7 +62,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.m3u8
 東森財經新聞,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新聞,
 鏡新聞,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
