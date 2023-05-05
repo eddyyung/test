@@ -3,7 +3,7 @@
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 中視,rtmp://119.81.124.89/sat/tv091
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-華視新聞,rtmp://119.81.124.89/sat/tv111
+華視,rtmp://119.81.124.89/sat/tv111
 TVBS新聞,rtmp://119.81.124.89/sat/tv551
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 東森財經新聞,rtmp://119.81.124.89/sat/tv571
