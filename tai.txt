@@ -1,8 +1,8 @@
 🇹🇼台灣,#genre#
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-中視新聞,rtmp://119.81.124.89/sat/tv091
-中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+中視,rtmp://119.81.124.89/sat/tv091
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 華視新聞,rtmp://119.81.124.89/sat/tv111
 TVBS新聞,rtmp://119.81.124.89/sat/tv551
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
@@ -17,7 +17,7 @@ ELTA體育1,rtmp://119.81.124.89/sat/md031
 ELEVEN2,rtmp://119.81.124.89/sat/md041
 博斯魅力,rtmp://119.81.124.89/sat/md051
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 中視新聞,rtmp://219.80.97.77/sat/tv091
 華視新聞,rtmp://219.80.97.77/sat/tv111
 華視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -73,7 +73,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+TVBS新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 民視新聞,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 三立新聞,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
