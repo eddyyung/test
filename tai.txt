@@ -6,6 +6,10 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 華視,rtmp://119.81.124.89/sat/tv111
 TVBS新聞,rtmp://119.81.124.89/sat/tv551
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
+星衛電影台 HD,http://23.237.10.66:16359
+中天綜合 HD,http://2023.stream-link.org/playlist/cti_zh.flv
+衛視中文台 HD,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
+東森衛視 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
 東森財經新聞,rtmp://119.81.124.89/sat/tv571
 中天亞洲,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
 緯來育樂,rtmp://119.81.124.89/sat/tv701
