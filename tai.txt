@@ -1,9 +1,9 @@
 🇹🇼台灣,#genre#
-民視,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台視,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-中視,rtmp://119.81.124.89/sat/tv091
-中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-華視,rtmp://119.81.124.89/sat/tv111
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+中視新聞,rtmp://119.81.124.89/sat/tv091
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+華視新聞,rtmp://119.81.124.89/sat/tv111
 TVBS新聞,rtmp://119.81.124.89/sat/tv551
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 東森財經新聞,rtmp://119.81.124.89/sat/tv571
@@ -16,11 +16,11 @@ MOMO綜合,rtmp://119.81.124.89/sat/tv761
 ELTA體育1,rtmp://119.81.124.89/sat/md031
 ELEVEN2,rtmp://119.81.124.89/sat/md041
 博斯魅力,rtmp://119.81.124.89/sat/md051
-民視,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-台視,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-中視,rtmp://219.80.97.77/sat/tv091
-華視,rtmp://219.80.97.77/sat/tv111
-華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+中視新聞,rtmp://219.80.97.77/sat/tv091
+華視新聞,rtmp://219.80.97.77/sat/tv111
+華視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 TVBS新聞,rtmp://219.80.97.77/sat/tv551
 TVBS歡樂,rtmp://219.80.97.77/sat/tv421
 東森財經新聞,rtmp://219.80.97.77/sat/tv571
@@ -34,14 +34,11 @@ ELEVEN2,rtmp://219.80.97.77/sat/tv741
 MOMO綜合,rtmp://219.80.97.77/sat/tv761
 緯來日本,rtmp://219.80.97.77/sat/tv771
 博斯魅力,rtmp://219.80.97.77/sat/md031
-ELTA體育2,rtmp://219.80.97.77/sat/md041
+民視第一台,rtmp://219.80.97.77/sat/md041
 博斯魅力,rtmp://219.80.97.77/sat/md051
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
-好消息,http://123.51.230.108:18507/.m3u8
 緯來體育,http://123.51.230.108:18509/.m3u8
-龍華戲劇,http://123.51.230.108:18513/.m3u8
 東森財經,http://123.51.230.108:18515/.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 臺灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -63,7 +60,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 緯來綜合 HD,http://123.51.229.65:18540/.m3u8
 緯來綜合 HD,http://60.251.33.252:18540/.m3u8
 緯來育樂,http://123.51.230.108:18541/.m3u8
-台視,http://123.51.230.108:18543/.m3u8
+台視新聞,http://123.51.230.108:18543/.m3u8
 緯來綜合,http://123.51.230.108:18551/.m3u8
 東風37,http://123.51.230.108:18560/.m3u8
 東風37,http://123.51.230.108:18561/.m3u8
