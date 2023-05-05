@@ -7,6 +7,7 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,rtmp://119.81.124.89/sat/tv551
 TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 東森財經新聞,rtmp://119.81.124.89/sat/tv571
+中天亞洲,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
 緯來育樂,rtmp://119.81.124.89/sat/tv701
 緯來體育,rtmp://119.81.124.89/sat/tv721
 ELEVEN1,rtmp://119.81.124.89/sat/tv731
