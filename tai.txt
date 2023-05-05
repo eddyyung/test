@@ -92,7 +92,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 龍祥時代,http://120.84.96.108:808/hls/35/index.m3u8
 龍祥時代,http://107.151.203.111:2209/135/hk.php?id=lxsdt
 衛視電影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
-經典電影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 天映經典,http://120.84.96.73:808/hls/85/index.m3u8
 天映經典,http://120.84.96.89:808/hls/85/index.m3u8
 天映經典,http://107.151.203.111:2209/135/hk.php?id=ccmt
