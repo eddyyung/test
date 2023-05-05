@@ -33,8 +33,8 @@ ELEVEN1,rtmp://219.80.97.77/sat/tv731
 ELEVEN2,rtmp://219.80.97.77/sat/tv741
 MOMO綜合,rtmp://219.80.97.77/sat/tv761
 緯來日本,rtmp://219.80.97.77/sat/tv771
-ELTA體育1,rtmp://219.80.97.77/sat/md031
-ELEVEN2,rtmp://219.80.97.77/sat/md041
+博斯魅力,rtmp://219.80.97.77/sat/md031
+ELTA體育2,rtmp://219.80.97.77/sat/md041
 博斯魅力,rtmp://219.80.97.77/sat/md051
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
@@ -64,9 +64,9 @@ NHK,http://123.51.230.108:18525/.m3u8
 緯來綜合 HD,http://60.251.33.252:18540/.m3u8
 緯來育樂,http://123.51.230.108:18541/.m3u8
 台視,http://123.51.230.108:18543/.m3u8
-龍華日韓,http://123.51.230.108:18551/.m3u8
+緯來綜合,http://123.51.230.108:18551/.m3u8
 東風37,http://123.51.230.108:18560/.m3u8
-人間衛視,http://123.51.230.108:18561/.m3u8
+東風37,http://123.51.230.108:18561/.m3u8
 大愛,http://123.51.230.108:18567/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.m3u8
@@ -111,13 +111,3 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東森洋片 HD,http://120.84.96.23:808/hls/33/index.m3u8
 東森洋片 HD,http://120.84.96.87:808/hls/33/index.m3u8
 東森洋片 HD,http://107.151.203.111:2209/135/hk.php?id=dsypt
-亞洲旅遊台,http://220.134.196.147:9523/index.m3u8
-亞洲旅遊台,http://220.134.196.147:9565/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-亞洲旅遊台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
-TLC旅遊生活,http://220.134.196.147:9567/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-動物星球,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-國家地理台灣,http://220.134.196.147:9569/http/116.50.42.19:8081/hls/61/803/ch01.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-愛爾達體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
-愛爾達娛樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-博斯運動1,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-博斯運動2,http://220.134.196.147:9565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
