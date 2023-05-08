@@ -66,7 +66,7 @@ NHK,http://123.51.230.108:18525/.m3u8
 民視新聞,http://123.51.230.108:18663/.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.m3u8
 東森財經新聞,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-中天新聞,
+中天新聞,https://epg.pw/stream/93417f5ca23a213e2fd16c9a1fb03013b4aaed0cd2a59826ab129ceefe981477.m3u8
 鏡新聞,https://ytm2.yuanhsing.cf/mnews.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
@@ -97,3 +97,34 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東森洋片 HD,http://120.84.96.23:808/hls/33/index.m3u8
 東森洋片 HD,http://120.84.96.87:808/hls/33/index.m3u8
 東森洋片 HD,http://107.151.203.111:2209/135/hk.php?id=dsypt
+new alquiler 4k 3[3840x2160][20230504],https://epg.pw/stream/ed73d5f9ec588f551de75c01463ee2c3723d6137728fb627c299a5d14ad706f3.ctv
+new alquiler 4k 5[3840x2160][20230504],https://epg.pw/stream/c1c88fc608f493751fc0a545f4d78a74558e8dc71d9afe633b22ff7eecb8e6f7.ctv
+new alquiler 4k 6[3840x1608][20230504],https://epg.pw/stream/ccaf4815abad6140a17d635efa7d11aff2a6424007a155eaf16a95b6a370127d.ctv
+new alquiler 4k 4[3840x2160][20230504],https://epg.pw/stream/123b75b8dbee51225e4ecbdaa5c4bf88034a6d58766ed62c869429998bb30aa6.ctv
+alquiler 4k[3840x2024][20230504],https://epg.pw/stream/4b740c9bbbcaa817a208eb02141f05b1c6beb1333598c9c600ed8121866d92df.ctv
+movistar+1 4k[3840x2160][20230504],https://epg.pw/stream/4ef38b70c02a1b02341d6e2f4afd83fc53ed33d7222ec266c4e381272f6f1639.ctv
+m+ series 4k[2048x1080][20230504],https://epg.pw/stream/86478080580c46ca15d3a42c5534c03f1b656cc5bbf7e5d2167a3f05dc0e83b8.ctv
+fox 4k[2048x1080][20230504],https://epg.pw/stream/2c1ebd99942d6fb6600ab7e67f146df5615e3e5610d53ca7daa5c05b8cb296e5.ctv
+new alquiler 4k 1[3840x1610][20230504],https://epg.pw/stream/b02fdb9593d1a0f6de873c69b7774d375afec2153e001f0a2af09904ff3bd775.ctv
+now•sports•4k•661[1280x720][20230504],https://epg.pw/stream/f4114df1ab63510fcc95e46081bdeee6eac8d0422acbad181a2e2b43d7f4bff6.ctv
+hbo3 hd[1920x1080][20230504],https://epg.pw/stream/29829f0f536d693a405e3ab382572a34904f70762bdd1c5e265dad38a88e31e1.m3u8
+hbo max 1[1920x804][20230504],https://epg.pw/stream/7eebe420ecf3e8f11dbe2087f3b1d2a30967048dd5f5de2909d2e67a71308590.ctv
+hbo[1920x1080][1920x1080][20230428],https://epg.pw/stream/ecd10d304bfde858a10d25221919a6ea67ffe3f6c3ba637c1f2324151086a679.ctv
+hbo3[1920x1080][1920x1080][20230428],https://epg.pw/stream/97f15f6035de34635da566c63adfd38da063a6e7fe4c0657a3e6e7c74ac93a0d.ctv
+hbo hd 1[1920x1080][20230428],https://epg.pw/stream/f2f521d361e6d0b99362e7214237320b24aa1d85c13064100fd38a72070993fb.ctv
+hbo 2 hd@@4[720x480][20230428],https://epg.pw/stream/394230841abcf6384d5d1168dae472ab32c837fb496fe9441656bffab2d80743.ctv
+hbo 2@@9[720x480][20230428],https://epg.pw/stream/fc32bd1ec5525f5ec723af5a724dda9e8768c19b6854d869bb53c6a9f91347a7.ctv
+hbo family sd@@1[720x480][20230428],https://epg.pw/stream/001b72def9544bff0a7e2584b2df8511dd8064852df417d8b98931e04f431cbd.m3u8
+hbo plus@@5[720x480][20230428],https://epg.pw/stream/cc9d14267c1b64ad1267feaad8a69ecd7b18cf0e2302b5597b47b0e8507c8352.m3u8
+hbo family@@6[720x480][20230428],https://epg.pw/stream/ce705b185da5a25f65febe2153c4676afb92c911b9047139adece68c7d664895.m3u8
+美亞電影[1280x720][20230418],https://epg.pw/stream/a3bc84227079241a67196b79f3d90384036fe9fe731c31c17ec59c278e1aeeb5.m3u8
+愛爾達體育2台[1920x1080][20230504],https://epg.pw/stream/eac2a6c3e6dffede961c5228445db7b9a581b750b363fe82e5195d38e970ec3e.m3u8
+愛爾達體育1台[1280x720][20230504],rtmp://9wv7.mine.nu/sat/md021
+愛爾達體育2台[1920x1080][20230504],https://epg.pw/stream/e130d3f00642d4d206a3e60b8983a5a21c22993de70c147618f4b4dbe40854d2.m3u8
+愛爾達體育2台[1920x1080][20230504],https://epg.pw/stream/600a446d13b9198f2525c6654236a09d5a9b5b88e5ac0160d2039245b7806f33.m3u8
+愛爾達體育1台[1280x720][20230421],https://epg.pw/stream/dc4b1f3d338d0d80f7a9ace70c31843b1adfea1c8b51c7bc614dcb84825b3c7a.m3u8
+愛爾達體育31[1280x720][20230420],rtmp://119.81.124.89/sat/md021
+愛爾達體育3[1280x720][20230419],rtmp://219.80.97.77/sat/md021
+愛爾達體育1台[1280x720][20230418],https://epg.pw/stream/100a5aed4e01db84db6e3c0bef8a4f30a294b70b272d6e6bb3bc49ffd1544215.m3u8
+愛爾達體育1台[1280x720][20230418],rtmp://219.80.97.77/sat/md031
+愛爾達體育1台[1280x720][20230418],rtmp://219.80.97.77/sat/md051
