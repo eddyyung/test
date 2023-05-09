@@ -104,7 +104,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 愛爾達體育2台,rtmp://219.80.97.77/sat/md021
 愛爾達體育1台,https://epg.pw/stream/100a5aed4e01db84db6e3c0bef8a4f30a294b70b272d6e6bb3bc49ffd1544215.m3u8
 愛爾達體育2台,rtmp://219.80.97.77/sat/md051
-運通財經台,https://raw.githubusercontent.com/eddyyung/TV/blob/main/TV02.m3u8
+運通財經台,https://raw.githubusercontent.com/eddyyung/TV/TV02.m3u8
 中視,https://github.com/eddyyung/TV/blob/main/TV05.m3u8
 天才衝衝衝,https://github.com/eddyyung/TV/blob/main/TV22.m3u8
 中天新聞,https://github.com/eddyyung/TV/blob/main/TV24.m3u8
