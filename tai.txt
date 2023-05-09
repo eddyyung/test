@@ -107,11 +107,11 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 寰宇新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV02.m3u8
 MOMO2台,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV05.m3u8
 天才衝衝衝,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV26.m3u8
-幸福空間居家,https://epg.pw/stream/62e4fc96c43b43bfbf20f17ca61b7d3654537c7918019794ebcc7d9bd9f967df.m3u8
+幸福空間居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 鏡新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV70.m3u8
 八大電視,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV74.m3u8
 三立新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV75.m3u8
 寰宇新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV76.m3u8
 Taiwan+,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV78.m3u8
-中天新聞(循環直播),https://epg.pw/stream/3a4a87abc98e2ad39a9c75cf81ade19c7f5f240276161e2b28978bab192141e8.m3u8
-中天新聞(直播),https://epg.pw/stream/93417f5ca23a213e2fd16c9a1fb03013b4aaed0cd2a59826ab129ceefe981477.m3u8
+中天新聞(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新聞(直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
