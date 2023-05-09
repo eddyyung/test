@@ -113,5 +113,4 @@ MOMO2台,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/
 三立新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV75.m3u8
 寰宇新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV76.m3u8
 Taiwan+,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV78.m3u8
-中天新聞(循環直播),https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-中天新聞(直播),https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
