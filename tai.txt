@@ -106,21 +106,11 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 愛爾達體育2台,rtmp://219.80.97.77/sat/md051
 寰宇新聞台,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV02.m3u8
 中視,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV05.m3u8
-天才衝衝衝,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV22.m3u8
 中天新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV24.m3u8
-大愛2,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV26.m3u8
+天才衝衝衝,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV26.m3u8
 幸福空間居家,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV37.m3u8
-MIT台灣誌,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV38.m3u8
-中天新聞2(循環直播),https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV45.m3u8
-VIVA2台(購物頻道),https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV46.m3u8
-美好一台(購物頻道)https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV47.m3u8
-全球財經,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV56.m3u8
-YOYO點點名,https://github.com/eddyyung/TV/blob/main/TV59.m3u8
-鏡新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV66.m3u8
-大陸尋奇,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV67.m3u8
-GTV 八大電視,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV70.m3u8
-TAIWAN+,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV74.m3u8
+鏡新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV70.m3u8
+八大電視,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV74.m3u8
 三立新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV75.m3u8
-寰宇新聞台,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV76.m3u8
-東森財經,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV77.m3u8
-MOMO,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV78.m3u8
+寰宇新聞,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV76.m3u8
+Taiwan+,https://ghproxy.com/https://raw.githubusercontent.com/eddyyung/TV/main/TV78.m3u8
